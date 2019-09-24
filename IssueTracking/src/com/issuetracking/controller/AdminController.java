@@ -1,5 +1,5 @@
 package com.issuetracking.controller;
 
-public class Test {
+public class AdminController {
 
 }
